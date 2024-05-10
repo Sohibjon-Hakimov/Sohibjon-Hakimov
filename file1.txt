@@ -1,0 +1,1 @@
+"Snapshot" - It's like taking a snapshot of your project at a specific point in time, but not attaching it to any branch.
